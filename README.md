@@ -36,22 +36,23 @@ class JaredEllis(Programmer):
     
     self.experience: dict = {
       current: {
-        title:    "Lead Programmer",
-        company:  "The Coder School",
-        start:    "Nov 2019"
+        title: "Lead Programmer",
+        company: "The Coder School",
+        start: "Nov 2019"
       }
     }
     
     self.education: dict = {
       current: {
-        school:     "The University of Texas at Dallas",
-        degree:     "Bachelor of Arts; Animation and Games",
-        expected:   "Dec 2023"
+        school: "The University of Texas at Dallas",
+        degree: "Bachelor of Arts; Animation and Games",
+        start: "Aug 2021",
+        end: "Dec 2023"
       },
       past: {
-        school:    "Collin County Community College",
-        degree:    "Associate of Arts; Animation and Games",
-        graduated: "May 2022"
+        school: "Collin County Community College",
+        degree: "Associate of Arts; Animation and Games",
+        start: "Aug 2018"
       }
     }
 ```
