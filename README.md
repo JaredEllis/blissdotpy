@@ -52,7 +52,8 @@ class JaredEllis(Programmer):
       past: {
         school: "Collin County Community College",
         degree: "Associate of Arts; Animation and Games",
-        start: "Aug 2018"
+        start: "Aug 2018",
+        end: "May 2021"
       }
     }
 ```
