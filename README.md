@@ -18,4 +18,4 @@ all_about_me = {
 ```
 
 ### Portfolio:
-<a href="https://www.jaredellis.myportfolio.com">Portfolio</a>
+<a href="[https://www.jaredellis.myportfolio.com](https://jaredellis.myportfolio.com/welcome)">Portfolio</a>
