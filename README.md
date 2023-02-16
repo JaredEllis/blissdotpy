@@ -13,6 +13,13 @@ all_about_me = {
       company:  "The Coder School",
       start:    "Nov 2019"
     }
+  },
+  education: {
+    current: {
+      school:   "The University of Texas at Dallas",
+      degree:   "Bachelor of Arts; Animation and Games",
+      expected: "Dec 2023"
+    }
   }
 }
 ```
