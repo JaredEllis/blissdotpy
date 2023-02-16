@@ -4,7 +4,7 @@
 all_about_me = {
   name: {
     first:  "Jared",
-    last:   "Ellis
+    last:   "Ellis"
   },
   languages: ["Python", "C#", "C++"],
   experience: {
