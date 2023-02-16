@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!--
 ```python
 all_about_me = {
   name: {
@@ -23,6 +24,7 @@ all_about_me = {
   }
 }
 ```
+-->
 
 ```python
 class JaredEllis(Programmer):
