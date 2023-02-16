@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello World
+### Portfolio: <a href="https://jaredellis.myportfolio.com/welcome">Jared Ellis</a>
 
 <!--
 ```python
@@ -57,5 +58,3 @@ class JaredEllis(Programmer):
       }
     }
 ```
-
-### Portfolio: <a href="https://jaredellis.myportfolio.com/welcome">Jared Ellis</a>
