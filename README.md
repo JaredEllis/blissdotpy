@@ -31,17 +31,28 @@ all_about_me = {
 ```python
 class JaredEllis(Programmer):
   def __init__(self):
+    """
+    Passionate video game lover and Game Art graduate-to-be seeking growth
+    opportunity at a game studio as a game or tools programmer.
+    """
     self.first_name: str = "Jared"
     self.last_name: str = "Ellis"
     
     self.languages: list = ["Python", "C#", "C++"]
+    
+    self.engines: list = ["Unreal", "Unity", "GameMaker"]
+    
+    self.technical_proficiency: list = ["Git", "GitHub", "Jira", "Trello", "Maya Autodesk"]
+    
+    self.organizations: list = ["Phi Theta Kappa", "Student Game Developers Association"]
     
     self.experience: dict = {
       current: {
         title: "Lead Programmer",
         company: "The Coder School",
         start: "Nov 2019"
-      }
+      },
+      
     }
     
     self.education: dict = {
