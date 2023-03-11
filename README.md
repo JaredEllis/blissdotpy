@@ -1,5 +1,4 @@
-### Hello World! Check out my portfolio below:
-### <a href="https://jaredellis.myportfolio.com/welcome">Jared Ellis</a>
+### Hello World! Check out my portfolio here: <a href="https://jaredellis.myportfolio.com/welcome">Jared Ellis</a>
 
 <!--
 ```python
