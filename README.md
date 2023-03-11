@@ -8,7 +8,8 @@ all_about_me = {
     first:  "Jared",
     last:   "Ellis"
   },
-  languages: ["Python", "C#", "C++"],
+  languages: ["Python", "C#", "C++", "Blueprints"],
+  engines: ["Unreal", "Unity", "GameMaker"]
   experience: {
     current: {
       title:    "Lead Programmer",
