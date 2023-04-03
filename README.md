@@ -31,15 +31,16 @@ all_about_me = {
 class JaredEllis(Programmer):
   def __init__(self):
     """
-    Passionate video game lover and Game Art graduate-to-be seeking growth
-    opportunity at a game studio as a game or tools programmer.
+    High achieving programmer, passionate video game lover,
+    and Game Art graduate-to-be seeking growth opportunity as a gameplay programmer.
+
     """
     self.first_name: str = "Jared"
     self.last_name: str = "Ellis"
     
     self.languages: list = ["Python", "C#", "C++"]
     
-    self.engines: list = ["Unreal", "Unity", "GameMaker"]
+    self.engines: list = ["Unreal", "Unity"]
     
     self.technical_proficiency: list = ["Git", "GitHub", "Jira", "Trello", "Maya Autodesk"]
     
@@ -53,27 +54,15 @@ class JaredEllis(Programmer):
       },
       
       "current2": {
-        "title": "Technical Director",
+        "title": "Pipeline Technical Director",
         "company": "UTD Animation Lab",
         "start": "Jan 2023"
       },
       
       "current3": {
-        "title": "Programmer",
+        "title": "Character Programmer",
         "company": "UTD Game Production Lab",
         "start" : "Jan 2023"
-      },
-      
-      "previous1": {
-        "title": "User Research Intern",
-        "company": "ZeniMax Media",
-        "start": "Nov 2019"
-      },
-      
-      "previous2": {
-        "title": "User Research Intern",
-        "company": "Gearbox Publishing",
-        "start": "Jan 2019"
       }
     }
     
